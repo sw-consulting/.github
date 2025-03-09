@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ This is a copy of Tebako source repositories as of v0.12.16
+🙋‍♀️ This is a working copy of Tebako repositories
 <!--
 
 **Here are some ideas to get you started:**
