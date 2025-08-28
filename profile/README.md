@@ -4,8 +4,13 @@
 
 ## Table of contents 🧙
 ### Many other projects ...  🍿  ... 
-### Leedex - DEX prototype
-This is Bitshares fork with very limited changes.
+### Kreel - a prototype of a decentralized exchange platform for trading recyclable materials
+- [KREEL blockchain implementation and command-line interface](https://github.com/sw-consulting/kreel.core)
+- [Graphical User Interface for KREEL](https://github.com/sw-consulting/kreel.ui)
+- [JavaScript tools for KREEL Encryption and Serialization](https://github.com/sw-consulting/kreel.js)
+- [Javascript websocket interface for KREEL](https://github.com/sw-consulting/kreel.ws)
+### Leedex - a prototype of a decentralized exchange platform for trading cryptoassets
+This is [Bitshares](https://bitshares.org/) fork with limited changes.
 - [LEEDEX blockchain implementation and command-line interface](https://github.com/sw-consulting/leedex.core)
 - [Graphical User Interface for LEEDEX](https://github.com/sw-consulting/leedex.ui)
 - [JavaScript tools for LEEDEX Encryption and Serialization](https://github.com/sw-consulting/leedex.js)
