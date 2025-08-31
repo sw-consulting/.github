@@ -21,4 +21,5 @@ This is [Bitshares](https://bitshares.org/) fork with limited changes.
 - [Seeder](https://github.com/sw-consulting/coin-green.seeder)
 - [Explorer](https://github.com/sw-consulting/coin-green.explorer)
 - [Genesys block generator](https://github.com/sw-consulting/coin-green.genesis)
-<!--
+### php-proxy -- a simple PHP proxy script that can be used to proxy HTTP requests to external web services
+- [php-proxy](https://github.com/sw-consulting/php-proxy)
