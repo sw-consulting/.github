@@ -15,7 +15,7 @@ This is [Bitshares](https://bitshares.org/) fork with limited changes.
 - [Graphical User Interface for LEEDEX](https://github.com/sw-consulting/leedex.ui)
 - [JavaScript tools for LEEDEX Encryption and Serialization](https://github.com/sw-consulting/leedex.js)
 - [Javascript websocket interface for LEEDEX](https://github.com/sw-consulting/leedex.ws)
-### CoignGreen - a fully functional clone of DogeCoin
+### <img width="25" height="25" alt="cg" src="https://github.com/user-attachments/assets/4fce2e68-d008-42bf-b1e7-c9dee045a31d"/>&nbsp;&nbsp; CoignGreen - a fully functional clone of DogeCoin
 - [CoinGreen blockchain implementation and command-line interface](https://github.com/sw-consulting/coin-green.core)
 - [CoinGreen Library in Android](https://github.com/sw-consulting/coin-green.wallet)
 - [Seeder](https://github.com/sw-consulting/coin-green.seeder)
