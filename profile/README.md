@@ -21,6 +21,8 @@ This is [Bitshares](https://bitshares.org/) fork with limited changes.
 - [Seeder](https://github.com/sw-consulting/coin-green.seeder)
 - [Explorer](https://github.com/sw-consulting/coin-green.explorer)
 - [Genesys block generator](https://github.com/sw-consulting/coin-green.genesis)
+### A port of RandomHash miner for the PascalCoin project to Dev-C++/TDM-GCC environment
+- [RhMiner](https://github.com/sw-consulting/rhminer)
 ### Luhn algorithm implementation including reverse calculation
 - [Luhn-functions](https://github.com/sw-consulting/Luhn-functions)
 ### php-proxy -- a simple PHP proxy script that can be used to proxy HTTP requests to external web services
