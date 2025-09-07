@@ -2,8 +2,7 @@
 
 🙋‍♀️ This is [sw.consulting](https://sw.consulting) archieve 
 
-## Table of contents 🧙
-### Many other projects ...  🍿  ... 
+## Table of contents 🧙 
 ### Kreel - a prototype of a decentralized exchange platform for trading recyclable materials
 - [KREEL blockchain implementation and command-line interface](https://github.com/sw-consulting/kreel.core)
 - [Graphical User Interface for KREEL](https://github.com/sw-consulting/kreel.ui)
