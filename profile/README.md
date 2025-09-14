@@ -26,3 +26,12 @@ This is [Bitshares](https://bitshares.org/) fork with limited changes.
 - [Luhn-functions](https://github.com/sw-consulting/Luhn-functions)
 ### php-proxy -- a simple PHP proxy script that can be used to proxy HTTP requests to external web services
 - [php-proxy](https://github.com/sw-consulting/php-proxy)
+### Project YY "Ы"
+There was a great plan and PoDoFo Windows build was a prerequisite of it. 
+The plan never came real; well, it never came close to reality but some artifacts were created
+- [A script to build libpng Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_libpng)
+- [A script to build libjpeg Windows binaries from the sources of independent JPEG group using AppVeyor](https://github.com/sw-consulting/YY.Dist_libjpeg)
+- [A script to build libtiff Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_libtiff)
+- [A script to build PoDoFo Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_podofo)
+- [A script to build freetype Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_freetype)
+- [A collection of tools shared accross "Проект Ы"](https://github.com/sw-consulting/YY.EZTools)
