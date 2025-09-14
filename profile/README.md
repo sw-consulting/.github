@@ -29,9 +29,11 @@ This is [Bitshares](https://bitshares.org/) fork with limited changes.
 ### Project YY "Ы"
 There was a great plan and PoDoFo Windows build was a prerequisite of it. 
 The plan never came real; well, it never came close to reality but some artifacts were created
+- [A script to build zlib Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_zlib)
 - [A script to build libpng Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_libpng)
 - [A script to build libjpeg Windows binaries from the sources of independent JPEG group using AppVeyor](https://github.com/sw-consulting/YY.Dist_libjpeg)
 - [A script to build libtiff Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_libtiff)
 - [A script to build PoDoFo Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_podofo)
 - [A script to build freetype Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_freetype)
 - [A collection of tools shared accross "Проект Ы"](https://github.com/sw-consulting/YY.EZTools)
+- [A program to extract images from pdf file, unlike original PoDoFo sample this program orders images by page](https://https://github.com/sw-consulting/YY.PdfImageExtract)
