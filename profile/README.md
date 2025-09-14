@@ -36,4 +36,4 @@ The plan never came real; well, it never came close to reality but some artifact
 - [A script to build PoDoFo Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_podofo)
 - [A script to build freetype Windows binaries using AppVeyor](https://github.com/sw-consulting/YY.Dist_freetype)
 - [A collection of tools shared accross "Проект Ы"](https://github.com/sw-consulting/YY.EZTools)
-- [A program to extract images from pdf file, unlike original PoDoFo sample this program orders images by page](https://https://github.com/sw-consulting/YY.PdfImageExtract)
+- [A program to extract images from pdf file, unlike original PoDoFo sample this program orders images by page](https://github.com/sw-consulting/YY.PdfImageExtract)
