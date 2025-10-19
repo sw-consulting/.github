@@ -3,6 +3,10 @@
 🙋‍♀️ This is [sw.consulting](https://sw.consulting) archieve 
 
 ## Table of contents 🧙 
+
+### North - a secure messanger based on Oxen (Session) network
+- [North - a secure messanger](https://github.com/sw-consulting/noth-android)
+- [North branding (pvt)](https://github.com/sw-consulting/noth-branding)
 ### Kreel - a prototype of a decentralized exchange platform for trading recyclable materials
 - [KREEL blockchain implementation and command-line interface](https://github.com/sw-consulting/kreel.core)
 - [Graphical User Interface for KREEL](https://github.com/sw-consulting/kreel.ui)
