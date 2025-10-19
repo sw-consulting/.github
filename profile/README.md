@@ -4,7 +4,7 @@
 
 ## Table of contents 🧙 
 
-### North - a secure messanger based on Oxen (Session) network
+### <img width="25" height="25" alt="north" src="https://github.com/sw-consulting/noth-branding/blob/main/png/48w/48w.png/>&nbsp;&nbsp; North - a secure messanger based on Oxen (Session) network
 - [North - a secure messanger](https://github.com/sw-consulting/noth-android)
 - [North branding (pvt)](https://github.com/sw-consulting/noth-branding)
 ### Kreel - a prototype of a decentralized exchange platform for trading recyclable materials
