@@ -1,6 +1,4 @@
-## Hi there 👋
-
-🙋‍♀️ This is [sw.consulting](https://sw.consulting) archieve
+👋 This is [sw.consulting](https://sw.consulting) archieve
 If you find a project useful please give it a star )
 
 ## Table of contents 🧙 
