@@ -5,7 +5,7 @@
 If you find a project useful please give it a star )
 ### Predictive - pure JavaScript utilities to calculate predictive dialing call flow
 - [predictive](https://github.com/sw-consulting/predictive)
-### <img width="25" height="25" alt="north" src="https://github.com/sw-consulting/noth-branding/blob/main/png/48w/48w.png"/>&nbsp;&nbsp; North - a secure messanger based on Oxen (Session) network
+### <img width="25" height="25" alt="noth" src="https://github.com/sw-consulting/noth-branding/blob/main/png/48w/48w.png"/>&nbsp;&nbsp; Noth - a secure messanger based on Oxen (Session) network
 - [Noth - a secure messanger](https://github.com/sw-consulting/noth-android)
 - [Noth branding (pvt)](https://github.com/sw-consulting/noth-branding)
 ### Kreel - a prototype of a decentralized exchange platform for trading recyclable materials
